@@ -1,2 +1,2 @@
-# YLiyxr.github.io
-Xinru Yang's Personal Website
+# TianyiPeng.github.io
+Tianyi Peng's Personal Website
