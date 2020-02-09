@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{index.html}, showsource, analytics{UA-31107207-1} 
 ==Publications
 
-## Journal
+=== Journal
 
 - *Quantum Queuing Delay*\n
 Wenhan Dai, Tianyi Peng, Moe Win\n
@@ -24,7 +24,7 @@ Physical Review A 94, 042126 (2016) \n
 [https://arxiv.org/abs/1607.04350 \[arxiv\]]
 
 
-## Conference
+=== Conference
 
 - *Queuing Delay for Quantum Networks* \n
 Wenhan Dai, Tianyi Peng, Moe Win\n
