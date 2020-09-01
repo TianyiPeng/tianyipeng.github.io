@@ -3,6 +3,11 @@
 
 === Journal
 
+- *Simulating Large Quantum Circuits on a Small Quantum Computer* \n
+Tianyi Peng, Maris Ozols, Aram Harrow, Xiaodi Wu \n 
+Accepted by Physical Review Letter \n
+[https://arxiv.org/abs/1904.00102 \[arxiv\]]
+
 - *Quantum Queuing Delay*\n
 Wenhan Dai, Tianyi Peng, Moe Win\n
 IEEE Journal on Selected Areas in Communications (IEEE-JSAC), vol. 38, no. 3, pp. 605-618, 2020\n
@@ -54,16 +59,18 @@ Wenhan Dai, Tianyi Peng, Moe Win \n
 IEEE International Conference on Acoustics, Speech and Signal Processing ([https://2019.ieeeicassp.org/ ICASSP 2019]), *Invited Paper* \n
 [Resources/ICASSP-2019-RSP-Final-Submission-FE.pdf \[pdf\]], [https://ieeexplore.ieee.org/document/8682768 \[link\]]
 
-== Submitted
+#== Submitted
 
-- *Simulating Large Quantum Circuits on a Small Quantum Computer* \n
-Tianyi Peng, Maris Ozols, Aram Harrow, Xiaodi Wu \n 
-Submitted to Physical Review Letter \n
-[https://arxiv.org/abs/1904.00102 \[arxiv\]]
 
 == Working Paper
 - *Solving the Phantom Inventory Problem: Near-optimal Entry-wise Anomaly Detection* \n
-#[Resources/Anomaly-Detection.pdf \[pdf\]]
+Vivek F. Farias, Andrew A. Li, Tianyi Peng (alphabetical order) \n
+[https://arxiv.org/abs/2006.13126.pdf \[arxiv\]]
+
+
+- *The Limits to Learning an SIR Process: Granular Forecasting for Covid-19* \n
+Jackie Baek, Vivek F. Farias, Andreea Georgescu, Retsef Levi, Tianyi Peng, Deeksha Sinha, Joshua Wilde, Andrew Zheng (alphabetical order) \n
+[https://arxiv.org/abs/2006.06373 \[arxiv\]]
 
 #- *Quantum State Discrimination with Local Operations and Classical Communications* \n
 #Tianyi Peng, Wenhan Dai, Moe Win \n
