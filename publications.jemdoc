@@ -1,39 +1,6 @@
 # jemdoc: menu{MENU}{index.html}, showsource, analytics{UA-31107207-1} 
 ==Publications
 
-=== Journal
-
-- *Simulating Large Quantum Circuits on a Small Quantum Computer* \n
-Tianyi Peng, Maris Ozols, Aram Harrow, Xiaodi Wu \n 
-Physical Review Letters 125, 150504 (2020) \n
-[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.150504 \[link\]] 
-[https://arxiv.org/abs/1904.00102 \[arxiv\]]
-
-- *Quantum Queuing Delay*\n
-Wenhan Dai, Tianyi Peng, Moe Win\n
-IEEE Journal on Selected Areas in Communications (IEEE-JSAC), vol. 38, no. 3, pp. 605-618, 2020\n
-[https://ieeexplore.ieee.org/abstract/document/8986836 \[link\]]
-[Resources/quantum_queuing_delay.pdf \[pdf\]]
-
-- *Optimal Remote Entanglement Distribution* \n
-Wenhan Dai, Tianyi Peng, Moe Win \n 
-IEEE Journal on Selected Areas in Communications (IEEE-JSAC), vol. 38, no. 3, pp. 540-556, 2020\n
-[https://ieeexplore.ieee.org/document/8967073 \[link\]]
-[Resources/optimal_entanglement_routing.pdf \[pdf\]]
-
-- *Quantum Uncertainty Relation of Coherence* \n
-Xiao Yuan, Ge Bai, Tianyi Peng, Xiongfeng Ma \n
-Physical Review A 96 (3), 032313 (2017) \n
-[https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.032313 \[link\]]
-[https://arxiv.org/abs/1612.02573 \[arxiv\]]
-
-- *Tight Detection Efficiency Bounds of Bell Tests In No-signaling Theories* \n
-Zhu Cao, Tianyi Peng (co-first author) \n
-Physical Review A 94, 042126 (2016) \n
-[https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.042126 \[link\]]
-[https://arxiv.org/abs/1607.04350 \[arxiv\]]
-
-
 === Conference
 
 - *Near-Optimal Entrywise Anomaly Detection for Low-Rank Matrices with Sub-Exponential Noise* \n
@@ -69,6 +36,40 @@ Military Communications Conference 2019 ([https://events.afcea.org/MILCOM19/Publ
 Wenhan Dai, Tianyi Peng, Moe Win \n
 IEEE International Conference on Acoustics, Speech and Signal Processing ([https://2019.ieeeicassp.org/ ICASSP 2019]), *Invited Paper* \n
 [Resources/ICASSP-2019-RSP-Final-Submission-FE.pdf \[pdf\]], [https://ieeexplore.ieee.org/document/8682768 \[link\]]
+
+
+=== Journal
+
+- *Simulating Large Quantum Circuits on a Small Quantum Computer* \n
+Tianyi Peng, Maris Ozols, Aram Harrow, Xiaodi Wu \n 
+Physical Review Letters 125, 150504 (2020) \n
+[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.150504 \[link\]] 
+[https://arxiv.org/abs/1904.00102 \[arxiv\]]
+
+- *Quantum Queuing Delay*\n
+Wenhan Dai, Tianyi Peng, Moe Win\n
+IEEE Journal on Selected Areas in Communications (IEEE-JSAC), vol. 38, no. 3, pp. 605-618, 2020\n
+[https://ieeexplore.ieee.org/abstract/document/8986836 \[link\]]
+[Resources/quantum_queuing_delay.pdf \[pdf\]]
+
+- *Optimal Remote Entanglement Distribution* \n
+Wenhan Dai, Tianyi Peng, Moe Win \n 
+IEEE Journal on Selected Areas in Communications (IEEE-JSAC), vol. 38, no. 3, pp. 540-556, 2020\n
+[https://ieeexplore.ieee.org/document/8967073 \[link\]]
+[Resources/optimal_entanglement_routing.pdf \[pdf\]]
+
+- *Quantum Uncertainty Relation of Coherence* \n
+Xiao Yuan, Ge Bai, Tianyi Peng, Xiongfeng Ma \n
+Physical Review A 96 (3), 032313 (2017) \n
+[https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.032313 \[link\]]
+[https://arxiv.org/abs/1612.02573 \[arxiv\]]
+
+- *Tight Detection Efficiency Bounds of Bell Tests In No-signaling Theories* \n
+Zhu Cao, Tianyi Peng (co-first author) \n
+Physical Review A 94, 042126 (2016) \n
+[https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.042126 \[link\]]
+[https://arxiv.org/abs/1607.04350 \[arxiv\]]
+
 
 #== Submitted
 
