@@ -36,6 +36,16 @@ Physical Review A 94, 042126 (2016) \n
 
 === Conference
 
+- *Near-Optimal Entrywise Anomaly Detection for Low-Rank Matrices with Sub-Exponential Noise* \n
+Vivek F. Farias, Andrew A. Li, Tianyi Peng (alphabetical order) \n
+Acceppted by the Thirty-eighth International Conference on Machine Learning (ICML 2021) \n
+[https://arxiv.org/abs/2006.13126.pdf \[arxiv\]]
+
+- *The Limits to Learning an SIR Process: Granular Forecasting for Covid-19* \n
+Jackie Baek, Vivek F. Farias, Andreea Georgescu, Retsef Levi, Tianyi Peng, Deeksha Sinha, Joshua Wilde, Andrew Zheng (alphabetical order) \n
+Acceppted by the Twenty-Second ACM Conference on Economics and Computation (EC 2021) \n
+[https://arxiv.org/abs/2006.06373 \[arxiv\]]
+
 - *Queuing Delay for Quantum Networks* \n
 Wenhan Dai, Tianyi Peng, Moe Win\n
 International Conference on Computing, Networking and Communications ([http://www.conf-icnc.org/2020/ ICNC 2020])
@@ -64,15 +74,5 @@ IEEE International Conference on Acoustics, Speech and Signal Processing ([https
 
 
 == Working Paper
-- *Solving the Phantom Inventory Problem: Near-optimal Entry-wise Anomaly Detection* \n
+- *Causal Inference on Panel Data with General Treatment Patterns* \n
 Vivek F. Farias, Andrew A. Li, Tianyi Peng (alphabetical order) \n
-[https://arxiv.org/abs/2006.13126.pdf \[arxiv\]]
-
-
-- *The Limits to Learning an SIR Process: Granular Forecasting for Covid-19* \n
-Jackie Baek, Vivek F. Farias, Andreea Georgescu, Retsef Levi, Tianyi Peng, Deeksha Sinha, Joshua Wilde, Andrew Zheng (alphabetical order) \n
-[https://arxiv.org/abs/2006.06373 \[arxiv\]]
-
-#- *Quantum State Discrimination with Local Operations and Classical Communications* \n
-#Tianyi Peng, Wenhan Dai, Moe Win \n
-#Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2020)
