@@ -11,13 +11,14 @@ Email: /tianyi/ \[at\] mit \[dot\] edu
 ~~~
 
 == About Me
-My current research directions are in the high dimensional statistics, machine learning, with a focus in the field of causal inference, low-rank matrix estimation, and applications on operation research.
+My current research directions are in the high dimensional statistics, machine learning, with a focus in the field of causal inference, low-rank matrix estimation, and applications on operations research.
 
-I am luckily advised by [http://web.mit.edu/vivekf/www/ Prof. Vivek Farias] at MIT Operation Research Center ([http://orc.mit.edu/ MIT ORC]) and also mentored by 
+I am luckily advised by [http://web.mit.edu/vivekf/www/ Prof. Vivek Farias] at MIT Operations Research Center ([http://orc.mit.edu/ MIT ORC]) and also mentored by 
 [https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/li-andrew.html Prof. Andrew Li] at CMU. 
 
 == News
 ~~~
+- 2021-Sept: The paper [https://arxiv.org/abs/2106.02780 Learning Treatment Effects in Panels with General Intervention Patterns] is accepted by Neurips 2021 as an *oral (< 1%)*
 - 2021-June: The paper [https://arxiv.org/abs/2006.06373 The Limits to Learning a Diffusion Model] receives the Finalist in [https://www.business.rutgers.edu/events/supply-chain-and-healthcare-management-conference Post-Pandemic Supply Chain and Healthcare Management conference] Best Paper Competion
 - 2021-May: The paper [https://arxiv.org/abs/2006.13126 Near-Optimal Entrywise Anomaly Detection for Low-Rank Matrices with Sub-Exponential Noise] is accepted by ICML 2021 
 - 2021-May: The paper [https://arxiv.org/abs/2006.06373 The Limits to Learning a Diffusion Model] is accepted by EC 2021
