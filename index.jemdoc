@@ -2,23 +2,32 @@
 ==Tianyi Peng, 彭天翼
 
 ~~~
-{}{img_left}{Resources/profile_photo.jpg}{Tianyi Peng}{145}{197}{Resources/profile_photo.jpg}
+{}{img_left}{Resources/profile_photo_1.jpg}{Tianyi Peng}{300}{300}{Resources/profile_photo_1.jpg}
 Tianyi Peng\n
 Ph.D. Candidate \n
-[https://aeroastro.mit.edu/ Department of Aeronautics and Astronautics] \n
+# [https://aeroastro.mit.edu/ Department of Aeronautics and Astronautics] \n
 [http://www.mit.edu/ Massachusetts Institute of Technology]\n
 Email: /tianyi/ \[at\] mit \[dot\] edu
 ~~~
 
 == About Me
-My current research directions are in the high dimensional statistics, machine learning, with a focus in the field of causal inference, low-rank matrix estimation, and applications on operations research.
 
-I am luckily advised by [http://web.mit.edu/vivekf/www/ Prof. Vivek Farias] at MIT Operations Research Center ([http://orc.mit.edu/ MIT ORC]) and also mentored by 
+I am a Ph.D. student at MIT, luckily advised by [http://web.mit.edu/vivekf/www/ Prof. Vivek Farias] at MIT Operations Research Center ([http://orc.mit.edu/ MIT ORC]) and also mentored by 
 [https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/li-andrew.html Prof. Andrew Li] at CMU. 
+
+I am broadly interested in, both theoretically and practically, developing machine learning algorithms for large-scale dynamic decision-making systems in real world. 
+
+My current reseach directions are *Causal Machine Learning*: an emerging field that aims to integrate causal inference into machine learning algorithms to improve the robustness, interpretablity, and trustworthiness of AI, 
+which marrys different fields such as econometrics, computer science, and operations research. 
+
+I love to collaborate with industry paterners and have been working on empirtical applications ranging from operations management, bioinformatics, to recommendation systems.  
+
+#My current research directions are in the high dimensional statistics, machine learning, with a focus in the field of causal inference, low-rank matrix estimation, and applications on operations research.
 
 == News
 ~~~
 - 2021-Sept: The paper [https://arxiv.org/abs/2106.02780 Learning Treatment Effects in Panels with General Intervention Patterns] is accepted by Neurips 2021 as an *oral (< 1%)*
+- 2021-June, July, August: Machine Learning Researcher Internship at *Bytedance* for improving recommendation algorithms of Tiktok, mentored by Ruofan Ding and Chong Wang   
 - 2021-June: The paper [https://arxiv.org/abs/2006.06373 The Limits to Learning a Diffusion Model] receives the Finalist in [https://www.business.rutgers.edu/events/supply-chain-and-healthcare-management-conference Post-Pandemic Supply Chain and Healthcare Management conference] Best Paper Competion
 - 2021-May: The paper [https://arxiv.org/abs/2006.13126 Near-Optimal Entrywise Anomaly Detection for Low-Rank Matrices with Sub-Exponential Noise] is accepted by ICML 2021 
 - 2021-May: The paper [https://arxiv.org/abs/2006.06373 The Limits to Learning a Diffusion Model] is accepted by EC 2021
@@ -30,6 +39,7 @@ I received the Bachelor's degree in computer science from [https://iiis.tsinghua
 I received the Master's degree in Laboratory for Information and Decision Systems ([https://lids.mit.edu/ LIDS]) at MIT in 2020, advised by Prof. Moe Win on quantum information science. 
 
 == Awards and Honors 
+- Finalist, Post-Pandemic Supply Chain and Healthcare Management conference] Best Paper Competion, 2021
 - *Best Paper Award*, International Conference on Computing, Networking, and Communications (ICNC), 2020
 - 1st place, MIT Quantum Hackthon, MIT, 2020 
 - 2nd place, IEEE programming competition [https://ieeextreme.org/ IEEExtreme 13.0], with Yuzhou Gu and Kevin Sun, 2019 
@@ -40,7 +50,7 @@ I received the Master's degree in Laboratory for Information and Decision System
 - International Gold Prize, Asia-Pacific Informatics Olympiad (APIO), 2012
 
 == Professional Services
-
+- Reviewer of AISTATS 2022
 - Reviewer of IEEE Journal on Selected Areas in Communications (IEEE-JSAC)
 - Reviewer of npj Quantum Information
 - Reviewer of New Journal of Physics
