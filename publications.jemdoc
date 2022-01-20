@@ -3,9 +3,14 @@
 
 === Conference
 
+- *Uncertainty Quantification For Low-Rank Matrix Completion With Heterogeneous and Sub-Exponential Noise* \n
+Vivek F. Farias, Andrew A. Li, Tianyi Peng (alphabetical order) \n
+Accepted by the 25th International Conference on Artificial Intelligence and Statistics ([http://aistats.org/aistats2022/cfp.html AISTATS 2022]) \n
+[https://arxiv.org/abs/2110.12046 \[arxiv\]]
+
 - *Learning Treatment Effects in Panels with General Intervention Patterns* \n
 Vivek F. Farias, Andrew A. Li, Tianyi Peng (alphabetical order) \n
-Accepted by the Thirty-fifth Conference on Neural Information Processing Systems ([https://nips.cc/Conferences/2021 Neurips 2021]) \n
+Accepted by the Thirty-fifth Conference on Neural Information Processing Systems ([https://nips.cc/Conferences/2021 NeurIPS 2021]) \n
 *Oral (< 1%)*\n 
 [https://arxiv.org/abs/2106.02780 \[arxiv\]], [https://recorder-v3.slideslive.com/\#/share?share=51959&s=e8d13de8-641c-4a1c-a053-544eee562a6b \[Video\]]
 
@@ -80,6 +85,4 @@ Physical Review A 94, 042126 (2016) \n
 #== Submitted
 
 
-== Working Paper
-- *Uncertainty Quantification For Low-Rank Matrix Completion With Heterogeneous and Sub-Exponential Noise* \n
-Vivek F. Farias, Andrew A. Li, Tianyi Peng (alphabetical order) \n
+#== Working Paper
