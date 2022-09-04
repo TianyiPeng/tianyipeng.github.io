@@ -1,7 +1,16 @@
 # jemdoc: menu{MENU}{index.html}, showsource, analytics{UA-31107207-1} 
 ==Publications
 
-=== Research
+=== Recent Publications
+
+- *Generalized Synthetic Control for TestOps at ABI: Models, Algorithms, and Infrastructure*\n
+With Luis Costa, Vivek F. Farias, Patricio Foncea, Jingyuan (Donna) Gan, Ayush Garg, Ivo Rosa Montenegro, Kumarjit Pathak, and Dusan Popovic\n
+-- Selected as a Finalist for *Wagner Prize*, 2022 
+
+- *Markovian Interference in Experiments* \n 
+With Vivek F. Farias, Andrew A. Li, and Andrew Zheng\n
+-- Selected as a Finalist for Applied Probability Socity *APS Student Paper Competition*, 2022
+[https://arxiv.org/abs/2206.02371 \[arxiv\]]
 
 - *Synthetically Controlled Bandits* \n
 Vivek F. Farias, Ciamac Moallemi, Tianyi Peng, Andrew Zheng (alphabetical order)\n
@@ -27,6 +36,9 @@ The Thirty-eighth International Conference on Machine Learning ([https://icml.cc
 Jackie Baek, Vivek F. Farias, Andreea Georgescu, Retsef Levi, Tianyi Peng, Deeksha Sinha, Joshua Wilde, Andrew Zheng (alphabetical order) \n
 The Twenty-Second ACM Conference on Economics and Computation ([https://ec21.sigecom.org/ EC 2021]) \n
 [https://arxiv.org/abs/2006.06373 \[arxiv\]]
+
+=== Publications in Quantum
+I also did some research on quantum information science in the past. 
 
 - *Quantum Queuing Delay*\n
 Wenhan Dai, Tianyi Peng, Moe Win\n
