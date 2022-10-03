@@ -20,53 +20,12 @@ I am broadly interested in developing machine learning and causal inference algo
 In particular, I focus on developing next-generation *Experimentation Platforms*, which provide scalable, low-cost solutions for discovering beneficial strategies/policies. I’ve had the pleasure of collaborating with [https://www.anheuser-busch.com/ Anheuser-Busch InBev (ABI)], [https://www.takeda.com/ Takeda],[https://www.tiktok.com/ Tiktok], [https://www.libertymutual.com/ Liberty Mutual], 
 and the [https://www.broadinstitute.org/ Broad Institute]. My work has been recognized with a NeurIPS oral presentation, as well as being selected as finalist for the MSOM Best Student Paper Prize, APS Best Student Paper Prize, Jeff McGill Student Paper Award, and Wagner Prize.
 
-I am on the job market this year, 2022-2023.
+I am on the job market this year, 2022-2023. I will present my work in the following sessions at 2022 INFORMS Annual Meeting:
 
-#I am a Ph.D. student at MIT, where I am fortunate to be advised by [http://web.mit.edu/vivekf/www/ Prof. Vivek Farias] at MIT Operations Research Center ([http://orc.mit.edu/ MIT ORC]) and also mentored by 
-#[https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/li-andrew.html Prof. Andrew Li] at CMU. 
+- SB34. MSOM Student Paper Finalists I. Sun Oct 16, 11:00-12:15, Location: CC - Room 145
+- MA51. Daniel H. Wagner Prize. Mon Oct 17, 8:00-9:15, Location: M - Santa Fe
+- MB56. Consequential Sequential Decisions. Mon Oct 17, 11:00-12:15, Location: M - Marriott 3
 
-#I received a Bachelor's degree in computer science from [https://iiis.tsinghua.edu.cn/en/yaoclass/ Yao Class] (exceptional pilot CS program led by Prof. Andrew C. Yao) in 2017.
-
-#I am in the job market 2022-2023.
-
-#== Research Interests
-
-#I am broadly interested in developing machine learning algorithms for large-scale dynamic decision-making systems in the real world. 
-
-#My current research directions are *Machine Learning and Causal Inference*, an emerging field that marries different areas such as operations research, statistics, computer science, and econometrics.
-
-#In particular, I focus on developing the next-generation *Experimentation Platform*, which aims to provide scalable and low-cost solutions for identifying beneficial strategies/policies that otherwise are impossible to be discovered. 
-#Such a platform uses statistics, machine learning, and reinforcement learning together with robust validations to overcome real-world causal inference challenges.
-
-#- the environment is highly noisy and non-stationary
-#- the groups have complicated interactions and interference    
-#- the results suffer from the adherence and compliance issues
-
-#Along this line, I collaborated with [https://www.anheuser-busch.com/ Anheuser-Busch InBev (ABI)], the world's largest beer producer, to develope their physical retailer experimentation platform. 
-#I am also working with [https://www.takeda.com/ Takeda], a giant pharmaceutical company, to tackle the late and mis-diagnosis issues of patients through causal inference. 
-
-#My other industry partners include [https://www.tiktok.com/ Tiktok], Liberty Mutual, and Broad Institute, where I am developing practical machine learning solutions through a causal lens. 
-
-#Some of the work have been selected as finalists in *APS Student Paper Competition* and *Wagner Prize*. 
-
-#My current research directions are *Machine Learning and Causal Inference*: an emerging field that aims to integrate causal inference into machine learning algorithms to improve the robustness, interpretability, and trustworthiness of AI, 
-#which marries different areas such as econometrics, computer science, and operations research. 
-
-#I love to collaborate with industry partners and have been working on empirical applications ranging from operations management, bioinformatics, to recommendation systems.  
-
-#My current research directions are in high dimensional statistics, machine learning, focusing on causal inference, low-rank matrix estimation, and applications on operations research.
-
-#== News
-#~~~
-#- 2022-Sept: A paper is selected to be the *Finalist* of Applied Probability Society (*APS*) Student Paper Competition 2022
-#- 2022-Sept: A paper is selected to be the *Finalist* of *Wagner Prize* 2022 
-#- 2022-Apr: Two papers are accepted by *MSOM SIG 2022*
-#- 2022-Jan: [https://arxiv.org/abs/2110.12046 A paper] is accepted by *AISTATS 2022*
-#- 2021-Sept: [https://arxiv.org/abs/2106.02780 A paper] is accepted by *NeurIPS 2021* as an *Oral* (\~0.6%)
-#- 2021-June: [https://arxiv.org/abs/2006.06373 A paper] receives the *Finalist* in [https://www.business.rutgers.edu/events/supply-chain-and-healthcare-management-conference Post-Pandemic Supply Chain and Healthcare Management conference] Best Paper Competition
-#- 2021-May: [https://arxiv.org/abs/2006.13126 A paper] is accepted by *ICML 2021*
-#- 2021-May: [https://arxiv.org/abs/2006.06373 A paper] is accepted by *EC 2021*
-#~~~
 
 == Publications 
 
