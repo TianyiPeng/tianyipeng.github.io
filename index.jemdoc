@@ -18,14 +18,18 @@ I earned my Bachelor's in Computer Science from Tsinghua University ([https://i
 
 I am broadly interested in developing machine learning and causal inference algorithms for large-scale dynamic decision-making systems in the real world. 
 In particular, I focus on developing next-generation *Experimentation Platforms*, which provide scalable, low-cost solutions for discovering beneficial strategies/policies. I’ve had the pleasure of collaborating with [https://www.anheuser-busch.com/ Anheuser-Busch InBev (ABI)], [https://www.takeda.com/ Takeda],[https://www.tiktok.com/ Tiktok], [https://www.libertymutual.com/ Liberty Mutual], 
-and the [https://www.broadinstitute.org/ Broad Institute]. My work has been recognized with a NeurIPS oral presentation, as well as being selected as finalist for the MSOM Best Student Paper Prize, APS Best Student Paper Prize, Jeff McGill Student Paper Award, and Wagner Prize.
+and the [https://www.broadinstitute.org/ Broad Institute]. 
+My work has been recognized as winner for the Daniel H. Wagner Prize, APS Best Student Paper Prize, and Jeff McGill Student Paper Award, 
+as well as being selected as finalist for the MSOM Best Student Paper Prize with a NeurIPS oral presentation.
 
-I am on the job market this year, 2022-2023. I will present my work in the following sessions at 2022 INFORMS Annual Meeting:
 
+I am on the job market this year, 2022-2023. 
 
-- *SB34. MSOM Student Paper Finalists I. Sun Oct 16, 11:00-12:15, Location: CC - Room 145 (the third presenter, 25-minute talk)*
-- *MA51. Daniel H. Wagner Prize. Mon Oct 17, 8:00-9:15, Location: M - Santa Fe (the second presenter, 35-minute talk)*
-- *MB56. Consequential Sequential Decisions. Mon Oct 17, 11:00-12:15, Location: M - Marriott 3 (the third presenter, 25-minute talk)*
+#I presented my work in the following sessions at 2022 INFORMS Annual Meeting:
+
+#- *SB34. MSOM Student Paper Finalists I. Sun Oct 16, 11:00-12:15, Location: CC - Room 145 (the third presenter, 25-minute talk)*
+#- *MA51. Daniel H. Wagner Prize. Mon Oct 17, 8:00-9:15, Location: M - Santa Fe (the second presenter, 35-minute talk)*
+#- *MB56. Consequential Sequential Decisions. Mon Oct 17, 11:00-12:15, Location: M - Marriott 3 (the third presenter, 25-minute talk)*
 
 
 == Publications 
@@ -34,42 +38,44 @@ I am on the job market this year, 2022-2023. I will present my work in the follo
 
 - *[https://arxiv.org/abs/2106.02780 Learning Treatment Effects in Panels with General Intervention Patterns]* \n
 With Vivek F. Farias and Andrew A. Li \n
-#Submitted to Journal of the American Statistical Association
-    -- Finalist, *MSOM Best Student Paper Prize* 2022
-    -- *[https://nips.cc/Conferences/2021 NeurIPS 2021], Oral* (\~0.6%)
-    -- NeurIPS 2021 Workshop on Causal Inference Challenges in Sequential Decision Making
+Under review in Journal of the American Statistical Association\n
+    -- *Finalist, MSOM Best Student Paper Prize* 2022
+    -- *NeurIPS 2021, Oral* (\~0.6%)
 
 - *[Generalized Synthetic Control for TestOps at ABI: Models, Algorithms, and Infrastructure]*\n
 With Luis Costa, Vivek F. Farias, Patricio Foncea, Jingyuan (Donna) Gan, Ayush Garg, Ivo Rosa Montenegro, Kumarjit Pathak, and Dusan Popovic\n
--- Finalist, *Wagner Prize* 2022 
+To appear in INFORMS Journal on Applied Analytics\n
+-- *Winner, Daniel H. Wagner Prize* 2022 
 
 - *[https://arxiv.org/abs/2206.02371 Markovian Interference in Experiments]* \n 
 With Vivek F. Farias, Andrew A. Li, and Andrew Zheng\n
--- *NeurIPS 2022*
--- Finalist, Applied Probability Socity *APS Best Student Paper Prize* 2022
--- Finalist, *Jeff McGill Student Paper Award* 2022
-
-- *[https://arxiv.org/pdf/2202.07079.pdf Synthetically Controlled Bandits]* \n
-With Vivek F. Farias, Ciamac Moallemi, and Andrew Zheng\n
-    -- *MSOM Service SIG* 2022
-
-- *[https://arxiv.org/abs/2110.12046 Uncertainty Quantification For Low-Rank Matrix Completion With Heterogeneous and Sub-Exponential Noise]* \n
-With Vivek F. Farias and Andrew A. Li\n
-    -- [http://aistats.org/aistats2022/cfp.html AISTATS 2022] \n
+Under preparation for Management Science\n
+-- *Winner, Applied Probability Socity (APS) Best Student Paper Prize* 2022
+-- *Winner, Jeff McGill Student Paper Award* 2022
+-- NeurIPS 2022
 
 
 - *[https://arxiv.org/abs/2006.13126 Fixing Inventory Inaccuracies At Scale]* \n
 With Vivek F. Farias and Andrew A. Li \n
-Under review in Management Science
-    -- *MSOM Supply Chain Management SIG* 2022
-    -- *[https://icml.cc/ ICML 2021]* \n
+Under review in Management Science\n
+    -- MSOM Supply Chain Management SIG 2022
+    -- ICML 2021 \n
+
+- *[https://arxiv.org/pdf/2202.07079.pdf Synthetically Controlled Bandits]* \n
+With Vivek F. Farias, Ciamac Moallemi, and Andrew Zheng\n
+Under review in Management Science\n
+    -- MSOM Service SIG 2022
+
+- *[https://arxiv.org/abs/2110.12046 Uncertainty Quantification For Low-Rank Matrix Completion With Heterogeneous and Sub-Exponential Noise]* \n
+With Vivek F. Farias and Andrew A. Li\n
+Under preparation for Operations Research\n
+    -- AISTATS 2022 \n
 
 - *[https://arxiv.org/abs/2006.06373 The Limits to Learning a Diffusion Model]* \n
 With Jackie Baek, Vivek F. Farias, Andreea Georgescu, Retsef Levi, Deeksha Sinha, Joshua Wilde, and Andrew Zheng\n
-Under revision in Management Science
-    -- *[https://ec21.sigecom.org/ EC 2021]* \n
-    -- *Finalist*, Post-Pandemic Supply Chain and Healthcare Management Best Paper
-    -- Oral Presentation, NeurIPS 2021 Workshop on Causal Inference Challenges in Sequential Decision Making
+R&R for Management Science
+    -- Finalist, Post-Pandemic Supply Chain and Healthcare Management Best Paper
+    -- EC 2021 \n
 
 === Publications in Quantum (A previous life..)
 
