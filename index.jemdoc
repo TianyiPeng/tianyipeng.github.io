@@ -4,32 +4,22 @@
 ~~~
 {}{img_left}{Resources/profile_photo.jpg}{Tianyi Peng}{268}{328}{Resources/profile_photo.jpg}
 Tianyi Peng\n
-Ph.D. Candidate \n
 Incoming Assistant Professor at Columbia University\n
-# [https://aeroastro.mit.edu/ Department of Aeronautics and Astronautics] \n
-[http://www.mit.edu/ Massachusetts Institute of Technology]\n
+Decision, Risk, and Operations Division\n
 Email: /tianyipeng95/ \[at\] gmail \[dot\] com\n
-[Resources/CV.pdf \[CV\]]
+[Resources/CV.pdf \[CV\]] [https://github.com/TianyiPeng/ \[GitHub\]] [www.linkedin.com/in/tianyi-peng-8a6909b4 \[linkedin\]]
 ~~~
 
 == About Me
+I am broadly interested in AI for decision-making, with a focus on enhancing real-world systems using techniques like reinforcement learning, experimentation/simulation methods, and generative AI models.
+I am a founding member of [http://cimulate.ai/  Cimulate.AI], developing Customer-GPT for e-commerce. 
 
-I am a Ph.D. student at MIT, advised by [http://web.mit.edu/vivekf/www/ Prof. Vivek Farias] ([http://orc.mit.edu/ MIT ORC]) and also mentored by [https://www.andrew.cmu.edu/user/aali1/index.html Prof. Andrew Li] at CMU. 
-I earned my Bachelor's in Computer Science from Tsinghua University ([https://iiis.tsinghua.edu.cn/en/yaoclass/ Yao Class]). 
+I've collaborated with organizations like Anheuser-Busch InBev, TikTok, and Liberty Mutual. My work with Anheuser-Busch InBev on developing an innovative experimentation platform earned the Daniel H. Wagner Prize in 2022 ([https://www.linkedin.com/posts/tianyi-peng-8a6909b4_2022-daniel-h-wagner-prize-awarded-to-researchers-activity-6990466260127907841-FvoR/?originalSubdomain=dz INFORMS news]). My research has also received the APS Best Student Paper Prize and RMP Jeff McGill Student Paper Award.
 
-I am broadly interested in developing machine learning and causal inference algorithms for large-scale dynamic decision-making systems in the real world. 
-In particular, I focus on developing next-generation *Experimentation Platforms*, which provide scalable, low-cost solutions for discovering beneficial strategies/policies. I’ve had the pleasure of collaborating with [https://www.anheuser-busch.com/ Anheuser-Busch InBev (ABI)], [https://www.takeda.com/ Takeda],[https://www.tiktok.com/ Tiktok], [https://www.libertymutual.com/ Liberty Mutual], 
-and the [https://www.broadinstitute.org/ Broad Institute]. My work for building a pioneering experimentation platform with Anheuser-Busch InBev won the *Daniel H. Wagner Prize* in 2022 ([https://pubsonline.informs.org/do/10.1287/orms.2022.05.32n/full/ INFORMS news]). 
-In addition, some of my work has been recognized as 
-two NeurIPS oral presentations, winner for the APS Best Student Paper Prize and RMP Jeff McGill Student Paper Award, and finalist for the MSOM Best Student Paper Prize.
+I'm set to join Columbia Business School's Decision, Risk, and Operations division as an assistant professor in Summer 2024. I hold a Ph.D. from MIT and a Bachelor's in Computer Science from Tsinghua University ([https://iiis.tsinghua.edu.cn/en/yaoclass/ Yao Class]).
 
-*Update*: I will join [https://home.gsb.columbia.edu/ Columbia Business School] as an assistant professor in the [https://business.columbia.edu/faculty/divisions/dro Decision, Risk, and Operations division], starting Summer 2024.
-
-#I presented my work in the following sessions at 2022 INFORMS Annual Meeting:
-
-#- *SB34. MSOM Student Paper Finalists I. Sun Oct 16, 11:00-12:15, Location: CC - Room 145 (the third presenter, 25-minute talk)*
-#- *MA51. Daniel H. Wagner Prize. Mon Oct 17, 8:00-9:15, Location: M - Santa Fe (the second presenter, 35-minute talk)*
-#- *MB56. Consequential Sequential Decisions. Mon Oct 17, 11:00-12:15, Location: M - Marriott 3 (the third presenter, 25-minute talk)*
+#I am broadly interested in developing machine learning and causal inference algorithms for large-scale dynamic decision-making systems in the real world. 
+#In particular, I focus on developing next-generation *Experimentation Platforms*, which provide scalable, low-cost solutions for discovering beneficial strategies/policies. 
 
 
 == Publications 
@@ -37,48 +27,48 @@ two NeurIPS oral presentations, winner for the APS Best Student Paper Prize and 
 #See [publications.html list] of the full publication.
 
 - *[https://arxiv.org/abs/2305.02542 Correcting for Interference in Experiments: A Case Study at Douyin]* \n
-With Vivek F. Farias, Andrew Zheng, Hao Li, Huawei Zhang, and Xinyuyang Ren \n
-Submitted 
--- Accepted by the 17th ACM Conference on Recommender Systems (RecSys 2023) 
-
-- *[https://arxiv.org/abs/2106.02780 Learning Treatment Effects in Panels with General Intervention Patterns]* \n
-With Vivek F. Farias and Andrew A. Li \n
-Under review in Journal of the American Statistical Association\n
-    -- *Finalist, MSOM Best Student Paper Prize* 2022
-    -- *NeurIPS 2021, Oral* (\~0.6%)
-
-- *[Resources/GSC.pdf Generalized Synthetic Control for TestOps at ABI: Models, Algorithms, and Infrastructure]*\n
-With Luis Costa, Vivek F. Farias, Patricio Foncea, Jingyuan (Donna) Gan, Ayush Garg, Ivo Rosa Montenegro, Kumarjit Pathak, and Dusan Popovic\n
-To appear in INFORMS Journal on Applied Analytics\n
--- *Winner, Daniel H. Wagner Prize* 2022 
+With Vivek F. Farias, Andrew Zheng, Hao Li, Huawei Zhang, and Xinyuyang Ren \n 
+-- RecSys 2023 
 
 - *[https://arxiv.org/abs/2206.02371 Markovian Interference in Experiments]* \n 
 With Vivek F. Farias, Andrew A. Li, and Andrew Zheng\n
-Under preparation for Management Science\n
+Under review in Management Science\n
 -- *Winner, Applied Probability Socity (APS) Best Student Paper Prize* 2022
 -- *Winner, Jeff McGill Student Paper Award* 2022
--- *NeurIPS 2022, Oral* (\~2%)
+-- *NeurIPS 2022, Oral* (\~2%), [https://www.bilibili.com/video/BV11G411R7hR/ \[Video in Chinese\]]
+
+- *[https://pubsonline.informs.org/doi/abs/10.1287/inte.2023.0028?journalCode=ijaa Generalized Synthetic Control for TestOps at ABI: Models, Algorithms, and Infrastructure]*\n
+With Luis Costa, Vivek F. Farias, Patricio Foncea, Jingyuan (Donna) Gan, Ayush Garg, Ivo Rosa Montenegro, Kumarjit Pathak, and Dusan Popovic\n
+INFORMS Journal on Applied Analytics\n
+-- *Winner, Daniel H. Wagner Prize* 2022
+-- [Resources/GSC.pdf \[pdf\]] 
+
+
+- *[https://arxiv.org/abs/2106.02780 Learning Treatment Effects in Panels with General Intervention Patterns]* \n
+With Vivek F. Farias and Andrew A. Li \n
+    -- *Finalist, MSOM Best Student Paper Prize* 2022
+    -- *NeurIPS 2021, Oral* (\~0.6%)
 
 
 - *[https://arxiv.org/abs/2006.13126 Fixing Inventory Inaccuracies At Scale]* \n
 With Vivek F. Farias and Andrew A. Li \n
-Under review in Management Science\n
+Minor revision in Manufacturing & Service Operations Management\n
     -- MSOM Supply Chain Management SIG 2022
     -- ICML 2021 \n
 
 - *[https://arxiv.org/pdf/2202.07079.pdf Synthetically Controlled Bandits]* \n
 With Vivek F. Farias, Ciamac Moallemi, and Andrew Zheng\n
-Under review in Management Science\n
+Major revision in Management Science\n
     -- MSOM Service SIG 2022
 
 - *[https://arxiv.org/abs/2110.12046 Uncertainty Quantification For Low-Rank Matrix Completion With Heterogeneous and Sub-Exponential Noise]* \n
 With Vivek F. Farias and Andrew A. Li\n
-Under preparation for Operations Research\n
+#Under preparation for Operations Research\n
     -- AISTATS 2022 \n
 
 - *[https://arxiv.org/abs/2006.06373 The Limits to Learning a Diffusion Model]* \n
 With Jackie Baek, Vivek F. Farias, Andreea Georgescu, Retsef Levi, Deeksha Sinha, Joshua Wilde, and Andrew Zheng\n
-R&R for Management Science
+Minor revision in Management Science
     -- Finalist, Post-Pandemic Supply Chain and Healthcare Management Best Paper
     -- EC 2021 \n
 
