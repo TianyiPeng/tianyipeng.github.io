@@ -2,7 +2,7 @@
 ==Tianyi Peng
 
 ~~~
-{}{img_left}{Resources/profile_photo.jpg}{Tianyi Peng}{268}{328}{Resources/profile_photo.jpg}
+{}{img_left}{Resources/profile_photo.jpg}{Tianyi Peng}{300}{450}{Resources/profile_photo.jpg}
 Tianyi Peng\n
 Incoming Assistant Professor at Columbia University\n
 Decision, Risk, and Operations Division\n
@@ -26,7 +26,8 @@ I'm set to join Columbia Business School's Decision, Risk, and Operations divisi
 
 #See [publications.html list] of the full publication.
 
-- Massive Speedups For Policy Evaluation In Inventory Management \n
+- *[https://arxiv.org/abs/2406.01939 Speeding up Policy Simulation in Supply Chain RL]* \n
+With Vivek F. Farias, Joren Gijsbrechts, Aryan Khojandi, Andrew Zheng\n
 -- Submitted 
 
 - *[https://arxiv.org/abs/2305.02542 Correcting for Interference in Experiments: A Case Study at Douyin]* \n
