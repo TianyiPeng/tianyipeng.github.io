@@ -11,8 +11,13 @@ Email: /tianyi.peng/ \[at\] columbia \[dot\] edu\n
 ~~~
 
 == About Me
-I am broadly interested in AI for decision-making, with a focus on enhancing real-world systems using techniques like reinforcement learning, experimentation/simulation methods, and generative AI models.
-I am a founding member of [http://cimulate.ai/  Cimulate.AI], developing Customer-GPT for e-commerce. 
+I am broadly interested in AI for decision-making and envision a future where AI agents coexist with humans to enable complex task automation and decision support. My research themes include:
+- Ensuring the safe and reliable deployment of AI agents in real-world applications, with continuous alignment and adaptation to business and societal objectives.
+- Reducing the operational costs of AI systems to enable scalable, low-latency deployment across diverse environments.
+- Leveraging AI to simulate human and system behavior, enabling cost-effective, scalable experimentation and testing.
+- Optimizing large-scale decision-making systems through AI and reinforcement learning.
+
+I am a founding member of [https://americanbazaaronline.com/2024/12/19/cimulate-ai-raises-28-million-in-series-a-funding-to-enhance-customer-experience-457838/ Cimulate.AI], developing Customer-GPT for e-commerce. We are hiring!  
 
 I've collaborated with organizations like Anheuser-Busch InBev, TikTok, and Liberty Mutual. My work with Anheuser-Busch InBev on developing an innovative experimentation platform earned the Daniel H. Wagner Prize in 2022 ([https://www.linkedin.com/posts/tianyi-peng-8a6909b4_2022-daniel-h-wagner-prize-awarded-to-researchers-activity-6990466260127907841-FvoR/?originalSubdomain=dz INFORMS news]). My research has also received the APS Best Student Paper Prize and RMP Jeff McGill Student Paper Award.
 
@@ -25,6 +30,23 @@ I hold a Ph.D. from MIT and a Bachelor's in Computer Science from Tsinghua Unive
 == Publications 
 
 #See [publications.html list] of the full publication.
+
+- *How Well do LLMs Compress their Own Chain-of-Thought? A Token Complexity Approach* \n
+Ayeong Lee, Ethan Che, Tianyi Peng\n
+
+- *ADSO: Adaptive Data Mixture & Scale Optimization. A Multi-Scale Multi-Fidelity Bayesian Optimization Approach* \n 
+Tzu-Ching Yen, Andrew Wei Tung Siah, Haozhe Chen, C. Daniel Guetta, Tianyi Peng, Hongseok Namkoong \n
+
+- *LLM Generated Persona is a Promise with a Catch* \n 
+Ang Li, Haozhe Chen, Hongseok Namkoong, Tianyi Peng\n
+
+- *Differences-in-Neighbors for Network Interference in Experiments* \n
+With Naimeng Ye and Andrew Zheng\n
+
+- *[https://arxiv.org/html/2410.06170v1 QGym: Scalable Simulation and Benchmarking of Queuing Network Controllers]* \n
+Haozhe Chen, Ang Li, Ethan Che,Tianyi Peng, Jing Dong, Hongseok Namkoong\n
+-- NeurIPS 2024, Dataset and Benchmarks Track
+-- [https://github.com/namkoong-lab/QGym \[Code\]]
 
 - *[https://arxiv.org/abs/2406.01939 Speeding up Policy Simulation in Supply Chain RL]* \n
 With Vivek F. Farias, Joren Gijsbrechts, Aryan Khojandi, Andrew Zheng\n
@@ -52,11 +74,11 @@ INFORMS Journal on Applied Analytics\n
 With Vivek F. Farias and Andrew A. Li \n
     -- *Finalist, MSOM Best Student Paper Prize* 2022
     -- *NeurIPS 2021, Oral* (\~0.6%)
-
+    -- [https://github.com/TianyiPeng/causaltensor \[A Python Package for Causal Inference in Panels\]]
 
 - *[https://arxiv.org/abs/2006.13126 Fixing Inventory Inaccuracies At Scale]* \n
 With Vivek F. Farias and Andrew A. Li \n
-Minor revision in Manufacturing & Service Operations Management\n
+Accepted by Manufacturing & Service Operations Management\n
     -- MSOM Supply Chain Management SIG 2022
     -- ICML 2021 \n
 
@@ -72,7 +94,7 @@ With Vivek F. Farias and Andrew A. Li\n
 
 - *[https://arxiv.org/abs/2006.06373 The Limits to Learning a Diffusion Model]* \n
 With Jackie Baek, Vivek F. Farias, Andreea Georgescu, Retsef Levi, Deeksha Sinha, Joshua Wilde, and Andrew Zheng\n
-Minor revision in Management Science
+Accepted by Management Science
     -- Finalist, Post-Pandemic Supply Chain and Healthcare Management Best Paper
     -- EC 2021 \n
 
