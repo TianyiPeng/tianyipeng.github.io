@@ -5,7 +5,8 @@
 {}{img_left}{Resources/profile_photo_new.JPG}{Tianyi Peng}{300}{450}{Resources/profile_photo_new.JPG}
 Tianyi Peng\n
 Assistant Professor at Columbia University\n
-Decision, Risk, and Operations Division\n
+[https://business.columbia.edu/faculty/divisions/dro Decision, Risk, and Operations Division]\n
+[https://datascience.columbia.edu/ Data Science Institute]\n
 Email: /tianyi.peng/ \[at\] columbia \[dot\] edu\n
 [Resources/CV.pdf \[CV\]] [https://github.com/TianyiPeng/ \[GitHub\]] [www.linkedin.com/in/tianyi-peng-8a6909b4 \[linkedin\]]
 ~~~
@@ -14,7 +15,7 @@ Email: /tianyi.peng/ \[at\] columbia \[dot\] edu\n
 I am broadly interested in AI for decision-making and envision a future where AI agents coexist with humans to enable complex task automation and decision support. My research themes include:
 - Ensuring the safe and reliable deployment of AI agents in real-world applications, with continuous alignment and adaptation to business and societal objectives.
 - Reducing the operational costs of AI systems to enable scalable, low-latency deployment across diverse environments.
-- Leveraging AI to simulate human and system behavior, enabling cost-effective, scalable experimentation and testing.
+- Leveraging AI to simulate human and system behavior (known as "digital twin"), enabling cost-effective, scalable experimentation and testing.
 - Optimizing large-scale decision-making systems through AI and reinforcement learning.
 
 I am a founding member of [https://americanbazaaronline.com/2024/12/19/cimulate-ai-raises-28-million-in-series-a-funding-to-enhance-customer-experience-457838/ Cimulate.AI], developing Customer-GPT for e-commerce. We are hiring!  
@@ -31,7 +32,7 @@ I hold a Ph.D. from MIT and a Bachelor's in Computer Science from Tsinghua Unive
 
 #See [publications.html list] of the full publication.
 
-- *How Well do LLMs Compress their Own Chain-of-Thought? A Token Complexity Approach* \n
+- *[https://arxiv.org/abs/2503.01141 How Well do LLMs Compress their Own Chain-of-Thought? A Token Complexity Approach]* \n
 Ayeong Lee, Ethan Che, Tianyi Peng\n
 
 - *ADSO: Adaptive Data Mixture & Scale Optimization. A Multi-Scale Multi-Fidelity Bayesian Optimization Approach* \n 
@@ -40,7 +41,7 @@ Tzu-Ching Yen, Andrew Wei Tung Siah, Haozhe Chen, C. Daniel Guetta, Tianyi Peng,
 - *LLM Generated Persona is a Promise with a Catch* \n 
 Ang Li, Haozhe Chen, Hongseok Namkoong, Tianyi Peng\n
 
-- *Differences-in-Neighbors for Network Interference in Experiments* \n
+- *[https://arxiv.org/abs/2503.02271 Differences-in-Neighbors for Network Interference in Experiments]* \n
 With Naimeng Ye and Andrew Zheng\n
 
 - *[https://arxiv.org/html/2410.06170v1 QGym: Scalable Simulation and Benchmarking of Queuing Network Controllers]* \n
