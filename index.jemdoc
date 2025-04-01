@@ -33,12 +33,12 @@ I hold a Ph.D. from MIT and a Bachelor's in Computer Science from Tsinghua Unive
 #See [publications.html list] of the full publication.
 
 - *[https://arxiv.org/abs/2503.01141 How Well do LLMs Compress their Own Chain-of-Thought? A Token Complexity Approach]* \n
-Ayeong Lee, Ethan Che, Tianyi Peng\n
+Ayeong Lee\*, Ethan Che\*, Tianyi Peng\n
 
-- *ADSO: Adaptive Data Mixture & Scale Optimization. A Multi-Scale Multi-Fidelity Bayesian Optimization Approach* \n 
+- *[https://arxiv.org/abs/2503.21023 Data Mixture Optimization: A Multi-fidelity Multi-scale Bayesian Framework]* \n 
 Tzu-Ching Yen, Andrew Wei Tung Siah, Haozhe Chen, C. Daniel Guetta, Tianyi Peng, Hongseok Namkoong \n
 
-- *LLM Generated Persona is a Promise with a Catch* \n 
+- *[https://arxiv.org/abs/2503.16527 LLM Generated Persona is a Promise with a Catch]* \n 
 Ang Li, Haozhe Chen, Hongseok Namkoong, Tianyi Peng\n
 
 - *[https://arxiv.org/abs/2503.02271 Differences-in-Neighbors for Network Interference in Experiments]* \n
