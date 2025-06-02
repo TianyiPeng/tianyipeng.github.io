@@ -25,81 +25,84 @@ I've collaborated with organizations like Anheuser-Busch InBev, TikTok, and Libe
 I hold a Ph.D. from MIT and a Bachelor's in Computer Science from Tsinghua University ([https://iiis.tsinghua.edu.cn/en/yaoclass/ Yao Class]).
 
 #I am broadly interested in developing machine learning and causal inference algorithms for large-scale dynamic decision-making systems in the real world. 
-#In particular, I focus on developing next-generation *Experimentation Platforms*, which provide scalable, low-cost solutions for discovering beneficial strategies/policies. 
+#In particular, I focus on developing next-generation *Experimentation Platforms*, which provide scalable, low-cost solutions for discovering beneficial strategies/policies. 
 
 
 == Publications 
 
 #See [publications.html list] of the full publication.
+(* indicates alphabetical ordering of authors, a celebrated tradition in Operations Research)
+
+- *[https://arxiv.org/abs/2505.17479 Twin-2K-500: A dataset for building digital twins of over 2,000 people based on their answers to over 500 questions]* \n
+Olivier Toubia, George Z. Gui, Tianyi Peng, Daniel J. Merlau, Ang Li, and Haozhe Chen\n
 
 - *[https://arxiv.org/abs/2504.07347 Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents]* \n
-Yueying Li, Jim Dai, Tianyi Peng\n
-
+Yueying Li, Jim Dai\*, Tianyi Peng\*\n
 
 - *[https://arxiv.org/abs/2503.01141 How Well do LLMs Compress their Own Chain-of-Thought? A Token Complexity Approach]* \n
-Ayeong Lee\*, Ethan Che\*, Tianyi Peng\n
+Ayeong Lee, Ethan Che, Tianyi Peng\n
 
-- *[https://arxiv.org/abs/2503.21023 Data Mixture Optimization: A Multi-fidelity Multi-scale Bayesian Framework]* \n 
-Tzu-Ching Yen, Andrew Wei Tung Siah, Haozhe Chen, C. Daniel Guetta, Tianyi Peng, Hongseok Namkoong \n
+- *[https://arxiv.org/abs/2503.21023 Data Mixture Optimization: A Multi-fidelity Multi-scale Bayesian Framework]* \n
+Tzu-Ching Yen, Andrew Wei Tung Siah, Haozhe Chen, C. Daniel Guetta, Tianyi Peng, Hongseok Namkoong\n
 
-- *[https://arxiv.org/abs/2503.16527 LLM Generated Persona is a Promise with a Catch]* \n 
+- *[https://arxiv.org/abs/2503.16527 LLM Generated Persona is a Promise with a Catch]* \n
 Ang Li, Haozhe Chen, Hongseok Namkoong, Tianyi Peng\n
 
 - *[https://arxiv.org/abs/2503.02271 Differences-in-Neighbors for Network Interference in Experiments]* \n
-With Naimeng Ye and Andrew Zheng\n
+\* Tianyi Peng, Naimeng Ye, Andrew Zheng\n
+-- EC 2025
+
+- *[https://arxiv.org/abs/2406.01939 Speeding up Policy Simulation in Supply Chain RL]* \n
+\* Vivek F. Farias, Joren Gijsbrechts, Aryan Khojandi, Tianyi Peng, Andrew Zheng\n
+-- ICML 2025
 
 - *[https://arxiv.org/html/2410.06170v1 QGym: Scalable Simulation and Benchmarking of Queuing Network Controllers]* \n
-Haozhe Chen, Ang Li, Ethan Che,Tianyi Peng, Jing Dong, Hongseok Namkoong\n
+Haozhe Chen, Ang Li, Ethan Che, Tianyi Peng, Jing Dong, Hongseok Namkoong\n
 -- NeurIPS 2024, Dataset and Benchmarks Track
 -- [https://github.com/namkoong-lab/QGym \[Code\]]
 
-- *[https://arxiv.org/abs/2406.01939 Speeding up Policy Simulation in Supply Chain RL]* \n
-With Vivek F. Farias, Joren Gijsbrechts, Aryan Khojandi, Andrew Zheng\n
--- Submitted 
-
 - *[https://arxiv.org/abs/2305.02542 Correcting for Interference in Experiments: A Case Study at Douyin]* \n
-With Vivek F. Farias, Andrew Zheng, Hao Li, Huawei Zhang, and Xinyuyang Ren \n 
+\* Vivek F. Farias, Hao Li, Tianyi Peng, Xinyuyang Ren, Huawei Zhang, Andrew Zheng\n 
 -- RecSys 2023 
 
 - *[https://arxiv.org/abs/2206.02371 Markovian Interference in Experiments]* \n 
-With Vivek F. Farias, Andrew A. Li, and Andrew Zheng\n
-Under review in Management Science\n
+\* Vivek F. Farias, Andrew A. Li, Tianyi Peng, Andrew Zheng\n
+Majore Revision in Management Science\n
 -- *Winner, Applied Probability Socity (APS) Best Student Paper Prize* 2022
 -- *Winner, Jeff McGill Student Paper Award* 2022
 -- *NeurIPS 2022, Oral* (\~2%), [https://www.bilibili.com/video/BV11G411R7hR/ \[Video in Chinese\]]
 
 - *[https://pubsonline.informs.org/doi/abs/10.1287/inte.2023.0028?journalCode=ijaa Generalized Synthetic Control for TestOps at ABI: Models, Algorithms, and Infrastructure]*\n
-With Luis Costa, Vivek F. Farias, Patricio Foncea, Jingyuan (Donna) Gan, Ayush Garg, Ivo Rosa Montenegro, Kumarjit Pathak, and Dusan Popovic\n
+\* Luis Costa, Vivek F. Farias, Patricio Foncea, Jingyuan (Donna) Gan, Ayush Garg, Ivo Rosa Montenegro, Kumarjit Pathak, Tianyi Peng, Dusan Popovic\n
 INFORMS Journal on Applied Analytics\n
 -- *Winner, Daniel H. Wagner Prize* 2022
 -- [Resources/GSC.pdf \[pdf\]] 
 
-
 - *[https://arxiv.org/abs/2106.02780 Learning Treatment Effects in Panels with General Intervention Patterns]* \n
-With Vivek F. Farias and Andrew A. Li \n
+\* Vivek F. Farias, Andrew A. Li, Tianyi Peng\n
     -- *Finalist, MSOM Best Student Paper Prize* 2022
     -- *NeurIPS 2021, Oral* (\~0.6%)
     -- [https://github.com/TianyiPeng/causaltensor \[A Python Package for Causal Inference in Panels\]]
 
 - *[https://arxiv.org/abs/2006.13126 Fixing Inventory Inaccuracies At Scale]* \n
-With Vivek F. Farias and Andrew A. Li \n
+\* Vivek F. Farias, Andrew A. Li, Tianyi Peng\n
 Accepted by Manufacturing & Service Operations Management\n
     -- MSOM Supply Chain Management SIG 2022
     -- ICML 2021 \n
 
 - *[https://arxiv.org/pdf/2202.07079.pdf Synthetically Controlled Bandits]* \n
-With Vivek F. Farias, Ciamac Moallemi, and Andrew Zheng\n
+\* Vivek F. Farias, Ciamac Moallemi, Tianyi Peng, Andrew Zheng\n
 Major revision in Management Science\n
     -- MSOM Service SIG 2022
 
 - *[https://arxiv.org/abs/2110.12046 Uncertainty Quantification For Low-Rank Matrix Completion With Heterogeneous and Sub-Exponential Noise]* \n
-With Vivek F. Farias and Andrew A. Li\n
+\* Vivek F. Farias, Andrew A. Li, Tianyi Peng\n
 #Under preparation for Operations Research\n
     -- AISTATS 2022 \n
 
 - *[https://arxiv.org/abs/2006.06373 The Limits to Learning a Diffusion Model]* \n
-With Jackie Baek, Vivek F. Farias, Andreea Georgescu, Retsef Levi, Deeksha Sinha, Joshua Wilde, and Andrew Zheng\n
-Accepted by Management Science
+\* Jackie Baek, Vivek F. Farias, Andreea Georgescu, Retsef Levi, Tianyi Peng, Deeksha Sinha, Joshua Wilde, Andrew Zheng\n
+Management Science
     -- Finalist, Post-Pandemic Supply Chain and Healthcare Management Best Paper
     -- EC 2021 \n
 
