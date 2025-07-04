@@ -6,9 +6,7 @@
 Tianyi Peng\n
 Assistant Professor, Columbia University\n
 [https://business.columbia.edu/faculty/divisions/dro Decision, Risk, and Operations Division, Columbia Business School]\n
-Other Affiliations:
-- [https://datascience.columbia.edu/ Data Science Institute]\n
-- [https://daplab.cs.columbia.edu/ DAPLab] — an AI-agent research group at Columbia University\n
+[https://datascience.columbia.edu/ Member of Columbia Data Science Institute]\n
 
 Email: /tianyi.peng/ \[at\] columbia \[dot\] edu\n
 [Resources/CV.pdf \[CV\]] [https://github.com/TianyiPeng/ \[GitHub\]] [www.linkedin.com/in/tianyi-peng-8a6909b4 \[linkedin\]]
@@ -21,11 +19,13 @@ I am broadly interested in AI for decision-making and envision a future where AI
 - Reducing the operational costs of AI systems to enable scalable, low-latency deployment across diverse environments.
 - Optimizing large-scale decision-making systems through AI and reinforcement learning.
 
-I am a founding member of [https://americanbazaaronline.com/2024/12/19/cimulate-ai-raises-28-million-in-series-a-funding-to-enhance-customer-experience-457838/ Cimulate.AI], developing Customer-GPT for e-commerce. We are hiring!  
-
 I've collaborated with organizations like Anheuser-Busch InBev, TikTok, and Liberty Mutual. My work with Anheuser-Busch InBev on developing an innovative experimentation platform earned the Daniel H. Wagner Prize in 2022 ([https://www.linkedin.com/posts/tianyi-peng-8a6909b4_2022-daniel-h-wagner-prize-awarded-to-researchers-activity-6990466260127907841-FvoR/?originalSubdomain=dz INFORMS news]). My research has also received the APS Best Student Paper Prize and RMP Jeff McGill Student Paper Award.
 
-I hold a Ph.D. from MIT and a Bachelor's in Computer Science from Tsinghua University ([https://iiis.tsinghua.edu.cn/en/yaoclass/ Yao Class]).
+I hold a Ph.D. from MIT and a Bachelor's in Computer Science from Tsinghua University ([https://iiis.tsinghua.edu.cn/en/yaoclass/ Yao Class]). 
+
+I am a founding member of [https://americanbazaaronline.com/2024/12/19/cimulate-ai-raises-28-million-in-series-a-funding-to-enhance-customer-experience-457838/ Cimulate.AI], developing Customer-GPT for e-commerce. We are hiring!  
+
+
 
 #I am broadly interested in developing machine learning and causal inference algorithms for large-scale dynamic decision-making systems in the real world. 
 #In particular, I focus on developing next-generation *Experimentation Platforms*, which provide scalable, low-cost solutions for discovering beneficial strategies/policies. 
